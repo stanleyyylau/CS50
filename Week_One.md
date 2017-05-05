@@ -20,4 +20,6 @@
 + Preprocessing(including header files)
 + Compiling()
 + Assembling -- More readable language your CPU understands
-+ Linking 
++ Linking
+
+## Problem set

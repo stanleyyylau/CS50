@@ -7,3 +7,5 @@
 + 8 binary digits is called a byte
 + Get familiar with scratch
 + Threads and events
+
+## Problem set
